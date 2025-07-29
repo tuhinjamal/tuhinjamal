@@ -1,73 +1,36 @@
-# Hi there 👋 I’m Tuhin Jamal
+<h1 align="center">Hi there 👋 I’m Tuhin Jamal</h1>
+<p align="center">
+  🚀 Junior Frontend Developer • Vue & Laravel Enthusiast • Open Source Contributor
+</p>
 
-**Junior Frontend Developer** passionate about building responsive, user-friendly web apps with **Vue.js**, **React**, and modern toolchains.
+---
+
+## 🧠 About Me
+
+- 🔭 Passionate about building responsive, user-friendly web apps with **Vue.js**, **React**, and modern toolchains.
+- 🌱 Exploring **Nuxt**, **TypeScript**, and scalable architecture patterns.
+- 📦 Published my own NPM component: [`@tuhinjamal/vue3-quill-editor`](https://www.npmjs.com/package/@tuhinjamal/vue3-quill-editor)
+- 🧠 Self-taught and always learning through real-world projects and community contributions.
 
 ---
 
 ## 🛠️ Skills & Languages
 
-- Frontend: Vue.js · React · JavaScript · TypeScript  
-- Backend: Node.js · Express · Laravel (PHP)  
-- Database & APIs: SQL · REST · Strapi  
-- State Management: Pinia · Vuex  
-- Tools: Vite · Docker · Git · GitHub Actions
+- **Frontend**: Vue.js · React · JavaScript · TypeScript  
+- **Backend**: Node.js · Express · Laravel (PHP)  
+- **Database & APIs**: SQL · REST · Strapi  
+- **State Management**: Pinia · Vuex  
+- **Tools**: Vite · Docker · Git · GitHub Actions
 
 ---
 
-## 🚀 Featured Projects
+## 📦 My NPM Package: [`@tuhinjamal/vue3-quill-editor`](https://www.npmjs.com/package/@tuhinjamal/vue3-quill-editor)
 
-### 🌐 Face Detection App
-A Vue 3 + Vite web application that detects faces using **face-api.js**.  
-Repository: `face-detection` :contentReference[oaicite:1]{index=1}
+> 🎨 A lightweight and fully customizable **Vue 3 wrapper for Quill rich text editor**.
 
-### 📚 Dynamic Portfolio
-A Laravel‑based portfolio website, enhanced with Bootstrap and Blade templates.  
-Repository: `dynamic-portfolio` :contentReference[oaicite:2]{index=2}
+[![NPM Version](https://img.shields.io/npm/v/@tuhinjamal/vue3-quill-editor?color=blue&label=npm&logo=npm)](https://www.npmjs.com/package/@tuhinjamal/vue3-quill-editor)
+[![NPM Downloads](https://img.shields.io/npm/dt/@tuhinjamal/vue3-quill-editor?color=green&label=downloads)](https://www.npmjs.com/package/@tuhinjamal/vue3-quill-editor)
+[![License](https://img.shields.io/npm/l/@tuhinjamal/vue3-quill-editor)](https://github.com/tuhinjamal/vue3-quill-editor/blob/main/LICENSE)
 
-### 💻 JavaScript Learning Companion
-A structured collection of practice projects from basics to advanced JavaScript.  
-Repository: `js-basic-to-advance` :contentReference[oaicite:3]{index=3}
-
-### 📖 AlHadith Project
-A PHP & SQL powered application to browse collections of Hadiths.  
-Repository: `alhadith` :contentReference[oaicite:4]{index=4}
-
----
-
-## 🏆 Achievements
-
-- Active **open source contributor**, focused on Vue.js and Laravel projects.  
-- Hands-on practice with real‑world features like state management (Pinia), face detection, and Strapi APIs.
-
----
-
-## 📦 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhinjamal&show_icons=true&theme=tokyonight)  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinjamal&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](INSERT_LINK_HERE)  
-- 🌐 [Portfolio / Blog](INSERT_LINK_HERE)  
-- 📬 Email: (optional)
-
----
-
-## 🔍 Exploration Guide
-
-Start with:
-| Repository | Purpose |
-|------------|---------|
-| `face-detection` | Showcases practical use of Vue and face-api.js |
-| `dynamic-portfolio` | Demonstrates Laravel project structure and responsive UI |
-| `js-basic-to-advance` | Highlights structured JavaScript code across complexity levels |
-| `alhadith` | Displays your backend and SQL proficiency |
-
-Feel free to explore more of my work — I’m always iterating and improving!
-
----
-
-⭐ If you find my work helpful or interesting, you’re welcome to star any project. And I’m always open to collaboration and new challenges!  
+```bash
+npm install @tuhinjamal/vue3-quill-editor
