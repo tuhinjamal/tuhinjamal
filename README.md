@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I’m Tuhin Jamal</h1>
 <p align="center">
-  🚀 Junior Frontend Developer • Vue & Laravel Enthusiast • Open Source Contributor
+  🚀 Frontend Developer • Vue & Laravel Enthusiast • Open Source Contributor
 </p>
 
 ---
